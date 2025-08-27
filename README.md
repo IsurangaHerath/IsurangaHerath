@@ -30,7 +30,7 @@
 ### 🚀 What I’m focusing on
 - Building strong foundations in **Data Science & Machine Learning**
 - **Currently learning:** Data visualization, ML models, and statistics
-- Applying **OS, Computer Graphics, and Networks** concepts in projects
+- Applying **OOP,AI** concepts in projects
 - Contributing to open-source and academic projects
 
 ### 🛠️ Tech I use
