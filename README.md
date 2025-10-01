@@ -20,7 +20,7 @@
   <a href="mailto:Navodyaisuranga10@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Email-Navodyaisuranga10@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/isuranga-herath-1765b72b/" target="_blank">
+  <a href="www.linkedin.com/in/isuranga-herath-1765b72b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Isuranga%20Herath-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
