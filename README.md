@@ -98,7 +98,7 @@
 
 ### 🤝 Let’s connect
 - Email: **Navodyaisuranga10@gmail.com**  
-- LinkedIn: **[Isuranga Herath](https://www.linkedin.com/in/isuranga-herath-1765b72b/)**  
+- LinkedIn: **[Isuranga Herath](www.linkedin.com/in/isuranga-herath-1765b72b9)**  
 
 ---
 
