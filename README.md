@@ -1,6 +1,6 @@
 <!-- Profile README for Isuranga Herath -->
 
-<h1 align="center">Hi, I'm Isuranga Herath 👋</h1>
+<h1 align="center">Hi, I'm Isuranga Herath</h1>
 
 <p align="center">
   BSc in Computer Science (2026) · Aspiring Data Scientist & Problem Solver
@@ -12,7 +12,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Isuranga+Herath;Data+Science+Enthusiast+📊;Problem+Solver+🧩;Always+Learning+New+Things!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Isuranga+Herath;Data+Science+Enthusiast;Problem+Solver;Always+Learning+New+Things!">
   </a>
 </h1>
 
@@ -27,13 +27,13 @@
 
 ---
 
-### 🚀 What I’m focusing on
+### What I’m focusing on
 - Building strong foundations in **Data Science & Machine Learning**
 - **Currently learning:** Data visualization, ML models, and statistics
 - Applying **OOP,AI** concepts in projects
 - Contributing to open-source and academic projects
 
-### 🛠️ Tech I use
+### Tech I use
 - **Core:** Python, C, C++, Java, Git/GitHub  
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Databases:** MySQL, SQLite, MongoDB  
@@ -62,14 +62,14 @@
 
 ---
 
-### 📦 Featured Projects
+### Featured Projects
 - 🔹 **Data Analysis Project** – Exploratory data analysis & visualization with Python  
 - 🔹 **Machine Learning Model** – Prediction/classification project with Scikit-learn  
 - 🔹 **Dashboard** – Interactive data visualization using Power BI / Tableau  
 
 ---
 
-### 🧭 Data Science Roadmap (2025)
+### Data Science Roadmap (2025)
 
 1. **Foundations**  
    - Python, statistics, probability, linear algebra  
@@ -96,13 +96,13 @@
 
 ---
 
-### 🤝 Let’s connect
+### Let’s connect
 - Email: **Navodyaisuranga10@gmail.com**  
 - LinkedIn: **[Isuranga Herath](www.linkedin.com/in/isuranga-herath-1765b72b9)**  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsurangaHerath&show_icons=true&theme=dark&count_private=true" alt="Isuranga Herath GitHub Stats" />
