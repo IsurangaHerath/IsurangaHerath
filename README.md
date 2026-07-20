@@ -125,6 +125,8 @@ Research:
 
 ### Online Voting System
 
+<img src="https://github-readme-stats-6jz4.onrender.com/api/pin/?username=IsurangaHerath&repo=Online-Voting-System&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=79C0FF"/>
+
 </div>
 
 A secure web-based voting platform designed to manage users, authentication, and voting processes efficiently.
@@ -144,6 +146,8 @@ A secure web-based voting platform designed to manage users, authentication, and
 <div align="center">
 
 ### Task Scheduler
+
+<img src="https://github-readme-stats-6jz4.onrender.com/api/pin/?username=IsurangaHerath&repo=Task_Scheduler&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=79C0FF"/>
 
 </div>
 
@@ -169,6 +173,8 @@ A productivity application for creating, organizing, and managing tasks with a m
 
 ### POS System
 
+<img src="https://github-readme-stats-6jz4.onrender.com/api/pin/?username=IsurangaHerath&repo=POS_System&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=79C0FF"/>
+
 </div>
 
 A complete point-of-sale management system focused on inventory, transactions, and business workflow automation.
@@ -176,7 +182,7 @@ A complete point-of-sale management system focused on inventory, transactions, a
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,express,mysql&theme=dark"/>
 <br/><br/>
-<a href="https://github.com/IsurangaHerath">
+<a href="https://github.com/IsurangaHerath/POS_System">
 <img src="https://img.shields.io/badge/View_Source-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC"/>
 </a>
 </div>
@@ -188,6 +194,8 @@ A complete point-of-sale management system focused on inventory, transactions, a
 <div align="center">
 
 ### Portfolio Website
+
+<img src="https://github-readme-stats-6jz4.onrender.com/api/pin/?username=IsurangaHerath&repo=My_Portfolio&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=79C0FF"/>
 
 </div>
 
@@ -372,9 +380,9 @@ Skills: Version Control · Git Workflow · Collaboration
 
 ## GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsurangaHerath&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=F0F6FC"/>
+<img height="180em" src="https://github-readme-stats-6jz4.onrender.com/api?username=IsurangaHerath&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=F0F6FC"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurangaHerath&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC"/>
+<img height="180em" src="https://github-readme-stats-6jz4.onrender.com/api/top-langs/?username=IsurangaHerath&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC"/>
 
 <br/><br/>
 
@@ -482,20 +490,6 @@ ML & Intelligent Systems
 </tr>
 
 </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3&width=1000"/>
-</div>
-
-<div align="center">
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=IsurangaHerath&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
