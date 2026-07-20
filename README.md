@@ -125,8 +125,6 @@ Research:
 
 ### Online Voting System
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsurangaHerath&repo=Online-Voting-System&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=79C0FF"/>
-
 </div>
 
 A secure web-based voting platform designed to manage users, authentication, and voting processes efficiently.
@@ -146,8 +144,6 @@ A secure web-based voting platform designed to manage users, authentication, and
 <div align="center">
 
 ### Task Scheduler
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsurangaHerath&repo=Task-Scheduler&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=79C0FF"/>
 
 </div>
 
