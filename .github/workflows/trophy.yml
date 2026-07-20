@@ -1,0 +1,19 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate trophy image
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: IsurangaHerath
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
