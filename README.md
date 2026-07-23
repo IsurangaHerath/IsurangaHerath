@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-<a href="https://isurangaherath.github.io">
+<a href="https://isurangaherath.github.io/My_Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 </a>
 
