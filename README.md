@@ -1,8 +1,3 @@
-<!-- =========================================================
-     MODERN GITHUB PROFILE README
-     ISURANGA HERATH
-========================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=250&section=header&text=Isuranga%20Herath&fontSize=55&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%7C%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
