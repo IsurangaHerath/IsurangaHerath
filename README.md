@@ -10,7 +10,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Sri%20Lanka-0D1117?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/BSc%20Computer%20Science%20Undergraduate-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/BSc%20(Honours)%20Computer%20Science%20Undergraduate-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF"/>
 </p>
 
 <br/>
@@ -58,7 +58,7 @@ Name:
   Isuranga Herath
 
 Education:
-  BSc Computer Science Undergraduate
+  BSc (Honours) Computer Science Undergraduate
 
 University:
   University of Vavuniya
