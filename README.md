@@ -80,7 +80,7 @@ Currently Learning:
   DevOps
 
 Research:
-  learned query optimizer in a federated database
+  Adaptive Query Planner for Heterogeneous Databases
 ```
 
 </td>
