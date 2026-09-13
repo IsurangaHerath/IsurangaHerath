@@ -214,7 +214,7 @@ Personal developer portfolio showcasing projects, certifications, technical skil
 
 <div align="center">
 
-### Hybrid Multi-Space Polystore Research
+### learned query optimizer in a federated database Research
 
 </div>
 
@@ -224,13 +224,13 @@ The system combines:
 
 - PostgreSQL
 - MongoDB
-- Vector Databases
-- FAISS Similarity Search
+- learned query optimizer
+- federated database
 - Sentence Transformer Embeddings
 
 Research Goal:
 
-> Improving retrieval performance in heterogeneous data environments through parallel neural and lexical retrieval.
+> Improving retrieval performance in heterogeneous database.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
