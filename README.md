@@ -214,28 +214,28 @@ Personal developer portfolio showcasing projects, certifications, technical skil
 
 <div align="center">
 
-### learned query optimizer in a federated database Research
+### Adaptive Query Planner for Heterogeneous Databases
 
 </div>
-
-A research project exploring next-generation heterogeneous database architectures.
+A research project exploring machine learning-based query optimization in heterogeneous database systems.
 
 The system combines:
 
 - PostgreSQL
 - MongoDB
-- learned query optimizer
-- federated database
-- Sentence Transformer Embeddings
+- Federated database architecture
+- Machine learning-based adaptive query planner
+- Contextual Bandit learning
+- Cross-database query execution
 
 Research Goal:
 
-> Improving retrieval performance in heterogeneous database.
+> Improving query execution performance by learning to select the most suitable execution strategy across heterogeneous PostgreSQL and MongoDB databases.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
-<img src="https://img.shields.io/badge/FAISS-161B22?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/AI_Search-161B22?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-161B22?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Contextual_Bandit-161B22?style=for-the-badge&logoColor=58A6FF"/>
 </div>
 
 </td>
