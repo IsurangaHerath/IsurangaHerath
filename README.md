@@ -80,7 +80,7 @@ Currently Learning:
   DevOps
 
 Research:
-  Hybrid Multi-Space Polystore Systems
+  learned query optimizer in a federated database
 ```
 
 </td>
